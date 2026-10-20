@@ -1,5 +1,6 @@
-"__pycache__/" 
-"__pycache__/" 
-".venv/" 
-"*.exe" 
-"node_modules/" 
+__pycache__/
+.venv/
+*.exe
+node_modules/
+node/node modules/
+node/node_modules/
